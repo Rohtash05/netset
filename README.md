@@ -15,4 +15,4 @@ The Project is Django based and use SQLite for the Database.
 
 ## Usage
 
-The Documentation for the Usage of the Project is available at `(docs)`[https://documenter.getpostman.com/view/12698826/TVK5d1zh#951c7379-186c-48c7-91bc-ecc8ac77aae2]
+The Documentation for the Usage of the Project is available at [docs](https://documenter.getpostman.com/view/12698826/TVK5d1zh#951c7379-186c-48c7-91bc-ecc8ac77aae2).
